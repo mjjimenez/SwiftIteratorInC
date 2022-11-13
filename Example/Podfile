@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'IteratorPodTest_Example' do
+  pod 'IteratorPodTest', :path => '../'
+
+  target 'IteratorPodTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

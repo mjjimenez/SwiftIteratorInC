@@ -30,8 +30,11 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'IteratorPodTest/Classes/**/*'
-  
+#  s.source_files = 'IteratorPodTest/Classes/**/*'
+
+  s.source_files = 'src/**/*'
+  s.vendored_libraries = 'lib/libiterator.a'
+
   # s.resource_bundles = {
   #   'IteratorPodTest' => ['IteratorPodTest/Assets/*.png']
   # }

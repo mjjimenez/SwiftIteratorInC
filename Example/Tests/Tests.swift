@@ -1,5 +1,5 @@
 import XCTest
-import IteratorPodTest
+//import IteratorPodTest
 
 class Tests: XCTestCase {
     

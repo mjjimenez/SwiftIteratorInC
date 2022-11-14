@@ -1,0 +1,16 @@
+PODS:
+  - IteratorPodTest (0.1.0)
+
+DEPENDENCIES:
+  - IteratorPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  IteratorPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IteratorPodTest: 51811a66e1e5579f553bb52803514f1c5b80a01c
+
+PODFILE CHECKSUM: 073db4a319e3e40450e51216c1f2cb55296702b7
+
+COCOAPODS: 1.11.3

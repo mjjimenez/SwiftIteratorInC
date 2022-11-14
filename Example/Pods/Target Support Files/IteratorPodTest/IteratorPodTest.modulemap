@@ -1,0 +1,6 @@
+framework module IteratorPodTest {
+  umbrella header "IteratorPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
